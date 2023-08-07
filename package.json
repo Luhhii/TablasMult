@@ -1,0 +1,18 @@
+{
+  "name": "paquetes",
+  "version": "0.0.1",
+  "description": "Esta es una tabla",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3",
+    "figura": "node figura --base=3",
+    "SyR": "node sumaresta --base=3"
+    
+  },
+  "author": "Luhi Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
